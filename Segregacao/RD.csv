@@ -1,4 +1,4 @@
-Raio P1 (mm),Raio P2 (mm),Densidade P1 (kg/m³),Densidade P2 (kg/m³),Razao de tamanho ( - ),Razao de densidade ( - ),sig-inf ( - ),k ( - ),r²
+Raio P1 (mm),Raio P2 (mm),Densidade P1 (kg/m³),Densidade P2 (kg/m³),x1,x2,sig,k,r²
 3.0001,3.0001,10000.0001,1000.0001,1.0001,0.1001,0.2827,0.3645,0.9192
 3.0001,3.0001,10000.0001,2000.0001,1.0001,0.2001,0.2414,0.3026,0.9255
 3.0001,3.0001,10000.0001,3000.0001,1.0001,0.3001,0.1985,0.2747,0.9551
